@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.learn{
+    width: 100%;
+    height: 10vh;
+    background-color: #134361;
+}
+.able img{
+    width: 80px;
+    transform: translateX(160px);
+}
+
+.log{
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 850px;
+    transform: translateY(-40px);
+}
+.log ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.log a{
+    color: white;
+    text-decoration: none;
+}
+.log a:hover{
+        text-decoration: underline;      
+}
+.boy img{
+        width: 85%;
+        height: 55vh;
+        padding-bottom: 30px;
+}
+
+.back{
+    width: 100%;
+    height: 70vh;
+    background-image: url(images/iyanu3.JPG);
+    background-position: center;
+    background-size: cover;
+    opacity: 0.7;
+}
+
+.every{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-family: metropolis;
+}
+.every h1{
+    font-size: 45px;
+}
+.every{
+    font-size: 20px;
+}
+.perfect .pro{
+    padding: 50px 270px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    color: #596275;
+}
+.perfect .edu{
+    padding: 50px 270px;
+    transform: translateY(-90px);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    color: #596275;
+}
+.path{
+    text-align: center;
+    color: #596275;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.path .our{
+    font-size: 18px;
+}
+.path .make{
+    font-size: 14px;
+}
+.path .any{
+    font-size: 15px;
+}
+
+.font{
+    width: 25%;
+    height: 27vh;
+    margin: 30px 400px;
+}
+.font img{
+    width: 100%;
+    transform: translateX(px);
+}
+.end{
+    width: 25%;
+    height: 34vh;
+    margin: 0px 400px;
+    color: red;
+    text-align: center;
+    padding-top: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: white;    
+}
+
+.end:hover{
+    box-shadow: whitesmoke 2px 2px 2px 2px;
+}
+
+.end .dev{
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.end p{
+    font-size: 12px;
+}
+
+.tired{
+    padding-top: 50px;
+    display: flex;
+}
+.tired a{
+    text-decoration: none;
+    color: red;
+}
+.tired .haa{
+    padding-left: 50px;
+}
+
+.foot{
+    margin-top: 50px;
+    width: 100%;
+    height: 25vh;
+    background-color: #134361;
+}
+
+.one{
+    padding-left: 200px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.one a{
+    text-decoration: none;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+}
+.one a:hover{
+    text-decoration: underline;
+}
+
+
+.two{
+    transform: translateY(-65px);
+}
+.two a{
+    text-decoration: none;
+    color: white;
+    padding-left: 800px;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.three{
+    padding-left: 800px;
+    transform: translateY(-40px);
+}
+.three a{
+    text-decoration: none;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+}
+.three p img{
+    padding-top: 10px;
+    width: 30%;
+}
+.three:hover{
+    text-decoration: underline;
+}
